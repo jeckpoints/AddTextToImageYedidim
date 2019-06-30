@@ -18,6 +18,7 @@ body {
 }
 
 .thumb-container {
+    padding: 0;
     width: 200px;
     height: 300px;
     margin: 10px;
@@ -32,3 +33,25 @@ body {
 #downloadBtn {
     font-size: 30px;
 }
+
+
+.pass_form{
+    margin:auto;
+    font-size: 20px;
+    width:450px;
+    margin-top: 25%;
+    text-align: center;
+}
+
+.main{
+    display: none;
+}
+
+.log_btn{
+    width:100%;
+}
+
+.gen{
+    padding:30px;
+}
+
